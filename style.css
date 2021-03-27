@@ -1,12 +1,10 @@
 * {
     box-sizing: border-box;
 }
-
 body {
     margin: 0;
     font-family: Raleway, sans-serif;
 }
-
 .container {
     max-width: 1170px;
     width: 100%;
@@ -16,20 +14,12 @@ body {
 
 
 /* author : @annaratna */
-
-
 /* tulis code css anda disini... */
-
-
 /* author : @annaratna */
 
 
 /* author : @umarelvaruq */
-
-
 /* tulis code css anda disini... */
-
-
 /* author : @umarelvaruq */
 
 
@@ -38,42 +28,35 @@ body {
     text-align: center;
     background-color: white;
 }
-
 .competencies h1 {
     font-size: 36px;
     text-decoration: none solid rgb(0 0 0);
     max-width: fit-content;
     margin: 24px auto;
 }
-
 .competencies hr {
     color: blue !important;
     width: 10%;
 }
-
 .contents {
     width: 100%;
     float: left;
     padding: 20px 20px;
     background-color: white;
 }
-
 .content-item {
     display: flex;
     width: 100%;
     margin: 20px 0;
 }
-
 .content-item img {
     width: 50px;
     height: 50px;
     margin-right: 30px;
 }
-
 .content-wrap {
     display: flex;
 }
-
 .content-text h2 {
     font-size: 20px;
     text-align: left;
@@ -81,30 +64,23 @@ body {
     margin-top: 0;
     margin-bottom: 0;
 }
-
 .content-text p {
     text-align: justify;
     padding-top: 0;
     padding-right: 10px;
     margin-top: 0;
 }
-
-
 /* author : @Nurnaning Tiastuti */
 
 
 /* author : @apip kurniawan */
-
 .partners {
     background-color: #efefef;
 }
-
 .partners h2 {
-    padding-top: 20px;
     text-align: center;
     font-size: 34px;
 }
-
 .partners p {
     text-align: justify;
     font-size: 16px;
@@ -112,15 +88,12 @@ body {
     color: #777;
     margin-bottom: 20px;
 }
-
 table {
     border-collapse: collapse;
 }
-
 table .space {
     padding: 2em;
 }
-
 td {
     font-size: 16px;
     line-height: 1.7;
@@ -131,19 +104,12 @@ td {
     display: table-cell;
     vertical-align: inherit;
 }
-
 td h4 {
     font-size: 19px;
 }
-
-
 /* author : @apip kurniawan */
 
 
 /* author : @Rosa Sam */
-
-
 /* tulis code css anda disini... */
-
-
 /* author : @Rosa Sam */
