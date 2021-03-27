@@ -15,7 +15,7 @@ website ini menjelaskan tentang profil sebuah perusahaan yg bergerak di bidang I
 ## kelompok C27
 Nama  | Gender | Alamat
 ------------- | ------------- | ------------- 
-Apip  | Laki-laki | Bekasi - Jawa Barat
+Apip Kurniawan  | Laki-laki | Bekasi - Jawa Barat
 Anna Ratna | Perempuan | Yogyakarta - Jawa Tengah
 Nuraning Triastuti | Perempuan | Blitar - Jawa Timur
 Umarel Varuq | Laki-laki | Malang - Jawa Timur
