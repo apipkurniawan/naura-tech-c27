@@ -42,7 +42,8 @@ body {
 .competencies h1 {
     font-size: 36px;
     text-decoration: none solid rgb(0 0 0);
-    text-align: center;
+    max-width: fit-content;
+    margin: 24px auto;
 }
 
 .competencies hr {
