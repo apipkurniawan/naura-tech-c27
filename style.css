@@ -19,7 +19,50 @@ body {
 
 
 /* author : @umarelvaruq */
-/* tulis code css anda disini... */
+
+.container2 {
+    max-width: 740px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.about-us {
+    background-color: #f8f9fa;
+}
+.about-us h2 {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 34px;
+}
+.about-us p {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.7;
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.career {
+    background-color: #f8f9fa;
+}
+.career h2 {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 34px;
+}
+.career p {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.7;
+    color: #777;
+    margin-bottom: 20px;
+}
+
+.career a{
+    color: #007bff;
+}
+
 /* author : @umarelvaruq */
 
 
