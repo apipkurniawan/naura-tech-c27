@@ -34,10 +34,6 @@ body {
 
 
 /* author : @Nurnaning Tiastuti */
-<<<<<<< HEAD
-
-=======
->>>>>>> a75fc8152aa518da85752662eb49bad60218273a
 .competencies {
     text-align: center;
     background-color: white;
@@ -46,6 +42,7 @@ body {
 .competencies h1 {
     font-size: 36px;
     text-decoration: none solid rgb(0 0 0);
+    text-align: center;
 }
 
 .competencies hr {
