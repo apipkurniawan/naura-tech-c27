@@ -1,9 +1,10 @@
-# naura-tech-c27
+# Introduction
 
-**naura-tech-c27** adalah nama proyek/sebuah website statis yang kami buat untuk tugas proyek tim sertifikasi DTS.
+## naura-tech-c27
+**naura-tech-c27** adalah nama proyek/sebuah website statis yang kami buat untuk tugas proyek tim dari DTS.
 website ini menjelaskan tentang profil sebuah perusahaan yg bergerak di bidang IT Solutions.
 
-###### komponen
+###### Komponen
 * Home
 * About Us
 * Competencies
