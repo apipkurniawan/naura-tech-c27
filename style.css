@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}  
+body {
+    margin: 0;
+    font-family: Raleway, sans-serif;
+}
+.container {
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+
+/* author : @annaratna */
+/* tulis code css anda disini... */
+/* author : @annaratna */
+
+
+/* author : @umarelvaruq */
+/* tulis code css anda disini... */
+/* author : @umarelvaruq */
+
+
+/* author : @Nurnaning Tiastuti */
+/* tulis code css anda disini... */
+/* author : @Nurnaning Tiastuti */
+
+
+/* author : @apip kurniawan */
+.partners {
+    background-color: #efefef;
+}
+.partners h2 {
+    text-align: center;
+    font-size: 34px;
+    line-height: 51px;
+    text-decoration: none solid rgb(0 0 0);
+}
+.partners p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
+    margin-bottom: 20px;
+}
+table {
+    border-collapse: collapse;
+}
+table .space {
+    padding: 2em;
+}
+td {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: justify;
+    display: table-cell;
+    vertical-align: inherit;
+}
+td h4 {
+    font-size: 19px;
+}
+/* author : @apip kurniawan */
+
+
+/* author : @Rosa Sam */
+/* tulis code css anda disini... */
+/* author : @Rosa Sam */
