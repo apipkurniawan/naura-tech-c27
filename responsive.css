@@ -1,0 +1,23 @@
+@media(max-width: 1000px) {
+    .contents-item {
+        width: 50%;
+        margin-bottom: 25px;
+    }
+    .content-wrap {
+        display: block;
+    }
+    .contents-item img {
+        padding: 10px;
+        width: 40px;
+    }
+}
+
+@media(max-width: 670px) {
+    .contents-item {
+        width: 100%;
+    }
+    .contents-item img {
+        padding: 15px !important;
+        width: 20px !important;
+    }
+}
