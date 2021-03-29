@@ -178,4 +178,20 @@ td h4 {
 .clear {
     clear: left;
 }
+footer img {
+    width: 125px;
+}
+footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+}
+footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+footer .text-footer {
+    font-size: 9px;
+    margin-left: 5px;
+    font-weight: 50;
+}
 /* author : @Rosa Sam */
