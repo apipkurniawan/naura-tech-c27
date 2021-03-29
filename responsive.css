@@ -20,4 +20,8 @@
         padding: 15px !important;
         width: 20px !important;
     }
+    .contact-detail {
+        width: 100%;
+        margin-bottom: 30px;
+    }
 }
