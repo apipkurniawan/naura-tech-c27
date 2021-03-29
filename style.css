@@ -101,12 +101,16 @@ body {
     padding-bottom: 0;
     margin-top: 0;
     margin-bottom: 0;
+    line-height: 1.7;
 }
 .content-text p {
     text-align: justify;
     padding-top: 0;
     padding-right: 10px;
     margin-top: 0;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
 }
 /* author : @Nurnaning Tiastuti */
 
@@ -162,7 +166,7 @@ td h4 {
     width: 33%;
 }
 .contact-wrapper {
-    padding-top: 20px;
+    padding-top: 35px;
     text-align: center;
 }
 .contact-detail p {
