@@ -19,14 +19,12 @@ body {
 
 
 /* author : @umarelvaruq */
-
 .container2 {
     max-width: 740px;
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
 }
-
 .about-us {
     background-color: #efefef;
 }
@@ -42,7 +40,6 @@ body {
     color: #777;
     margin-bottom: 20px;
 }
-
 .career {
     background-color: #fff;
 }
@@ -58,11 +55,9 @@ body {
     color: #777;
     margin-bottom: 20px;
 }
-
 .career a{
     color: #007bff;
 }
-
 /* author : @umarelvaruq */
 
 
